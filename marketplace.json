@@ -1,0 +1,19 @@
+{
+  "name": "bazi-ishengmind",
+  "owner": {
+    "name": "isheng-eqi",
+    "github": "https://github.com/isheng-eqi"
+  },
+  "description": "八字命理分析技能包 — BaZi destiny analysis skill based on DiTianSui (滴天髓). Understand yourself, feel your inner energy, and find your optimal path through life.",
+  "plugins": [
+    {
+      "name": "bazi-ishengmind",
+      "source": ".",
+      "description": "以《滴天髓》思想为核心的八字命理分析技能。分析日主强弱、五行气势、通关之法、大运流年内在感受变化。不论外在人事，直言结论。",
+      "version": "1.0.0",
+      "category": "Metaphysics",
+      "tags": ["bazi", "八字", "destiny", "ditianshui", "滴天髓", "metaphysics", "chinese-astrology", "self-discovery"],
+      "license": "MIT"
+    }
+  ]
+}

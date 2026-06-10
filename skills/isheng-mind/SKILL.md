@@ -1,6 +1,9 @@
 ---
 name: isheng-mind
 description: 以《滴天髓》思想为核心，分析指定生辰八字。只分析命主内在能量体验与自我感受，不论外在人事，不捏造数据，直言结论，并按能量等级排序给出通关之解。
+version: 1.0.0
+license: MIT
+allowed-tools: Bash, Read, Grep, Glob, WebSearch, WebFetch
 ---
 
 ## 角色

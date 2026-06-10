@@ -1,0 +1,10 @@
+{
+  "name": "bazi-ishengmind",
+  "description": "BaZi destiny analysis skill based on DiTianSui. Analyze inner energy experience and self-perception with the isheng-mind approach — no superstition, pure self-understanding.",
+  "version": "1.0.0",
+  "author": "isheng-eqi",
+  "license": "MIT",
+  "skills": ["isheng-mind"],
+  "category": "Metaphysics",
+  "tags": ["bazi", "destiny", "ditianshui", "metaphysics", "chinese-astrology", "self-discovery"]
+}
